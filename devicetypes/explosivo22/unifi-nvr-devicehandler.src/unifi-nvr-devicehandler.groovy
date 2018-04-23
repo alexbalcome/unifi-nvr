@@ -17,7 +17,7 @@
  *  For more information, see https://github.com/project802/smartthings/unifi_nvr
  */
 metadata {
-    definition (name: "UniFi NVR Camera", namespace: “explosivo22”, author: "Chris Vincent") {
+    definition (name: "UniFi NVR Camera", namespace: explosivo22, author: "Chris Vincent") {
         capability "Motion Sensor"
         capability "Sensor"
         capability "Refresh"
