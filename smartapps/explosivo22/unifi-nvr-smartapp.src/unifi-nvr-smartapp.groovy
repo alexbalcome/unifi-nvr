@@ -18,7 +18,7 @@
  */
 definition(
     name: "UniFi NVR",
-    namespace: “explosivo22”,
+    namespace: explosivo22,
     author: "Chris Vincent",
     description: "UniFi NVR SmartApp",
     category: "My Apps",
